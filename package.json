@@ -1,0 +1,19 @@
+{
+    "name": "nicolas-caceres-exercise",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "Nicolás Cáceres Latorre",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.0.1",
+        "pg": "^8.11.3",
+        "pg-cursor": "^2.10.3",
+        "pg-format": "^1.0.4"
+    }
+}
